@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Wiki](https://github.com/ekoodi/ekoodi.github.io/wiki/ekoodi-Wiki)
+[Wiki](https://github.com/ekoodi/ekoodi.github.io/wiki)
 
 
 You can use the [editor on GitHub](https://github.com/ekoodi/ekoodi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
