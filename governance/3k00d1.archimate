@@ -13,7 +13,7 @@
     <element xsi:type="archimate:ApplicationCollaboration" id="298e5354" name="Palvelukerros"/>
     <element xsi:type="archimate:ApplicationCollaboration" id="e0dfc345" name="Liiketoimintakerros"/>
     <element xsi:type="archimate:ApplicationCollaboration" id="bc0657ca" name="Tiedonhallintakerros"/>
-    <element xsi:type="archimate:ApplicationInterface" id="836669ee" name="Näkymä (Model)"/>
+    <element xsi:type="archimate:ApplicationInterface" id="836669ee" name="Näkymä (View)"/>
     <element xsi:type="archimate:ApplicationFunction" id="11b3de03" name="Käsittelijä (Controller)"/>
     <element xsi:type="archimate:DataObject" id="0cbeb062" name="Malli (Model)"/>
     <element xsi:type="archimate:ApplicationCollaboration" id="11eac608" name="Asiakas"/>
