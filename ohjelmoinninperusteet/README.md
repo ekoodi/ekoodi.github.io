@@ -45,3 +45,21 @@ Ohjelma lajittelee luvut nousevaan järjestykseen.
 Esim.
 Input: 4, 8, 2
 Vastaus: 2, 4, 8
+
+####Toteuta Maatalousnäyttelyn lipunhinnan muodostuminen C# ohjelmointikielellä.
+
+Perustiedot
+- Kysytään asiakkaan tiedot
+- Lasketaan alennus
+- Ilmoitetaan lipun hinta
+
+Ehdot: Vain yksi alennus myönnetään. 
+Paitsi, jos on opiskelija sekä Mtk:n jäsen, hän saa molemmat alennukset
+
+- Normaalihinta 16 e
+- Alle 7 v. ilmaiseksi
+- 65 v. ja yli: 50 % alennus
+- 7-15 v. 50% alennus
+- Mtk jäsen: 15 % alennus
+- Varusmies: 50 % alennus
+- Opiskelija: 45 % alennus
