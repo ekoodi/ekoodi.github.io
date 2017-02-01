@@ -1,6 +1,6 @@
 # Ohjelmoinnin perusteet
 ##Perustehtäviä
-###Toteuta ohjelmat C# ohjelmointikielellä
+###Toteuta ohjelmat C# -ohjelmointikielellä
 
 ####1. Käyttäjää pyydetään kirjoittamaan ohjelmalle 1 luku. 
 Ohjelma tulostaa positiivinen, negatiivinen tai nolla.
@@ -46,7 +46,7 @@ Esim.
 Input: 4, 8, 2
 Vastaus: 2, 4, 8
 
-####5. Toteuta Maatalousnäyttelyn lipunhinnan muodostuminen C# ohjelmointikielellä.
+####5. Toteuta Maatalousnäyttelyn lipunhinnan muodostuminen C# -ohjelmointikielellä.
 
 Perustiedot
 - Kysytään asiakkaan tiedot
@@ -54,7 +54,7 @@ Perustiedot
 - Ilmoitetaan lipun hinta
 
 Ehdot: Vain yksi alennus myönnetään. 
-Paitsi, jos on opiskelija sekä Mtk:n jäsen, hän saa molemmat alennukset
+Paitsi, jos on opiskelija sekä Mtk:n jäsen, hän saa molemmat alennukset.
 
 - Normaalihinta 16 e
 - Alle 7 v. ilmaiseksi
