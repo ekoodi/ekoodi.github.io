@@ -1,6 +1,6 @@
 # Ohjelmoinnin perusteet
 ##Perustehtäviä
-###Toteuta ohjelmat C# ohjelmointi kielellä
+###Toteuta ohjelmat C# ohjelmointikielellä
 
 ####1. Käyttäjää pyydetään kirjoittamaan ohjelmalle 1 luku. 
 Ohjelma tulostaa positiivinen, negatiivinen tai nolla.
@@ -46,7 +46,7 @@ Esim.
 Input: 4, 8, 2
 Vastaus: 2, 4, 8
 
-####Toteuta Maatalousnäyttelyn lipunhinnan muodostuminen C# ohjelmointikielellä.
+####5. Toteuta Maatalousnäyttelyn lipunhinnan muodostuminen C# ohjelmointikielellä.
 
 Perustiedot
 - Kysytään asiakkaan tiedot
