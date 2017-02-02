@@ -1,0 +1,137 @@
+#1. Yksiuloitteinen taulukko
+Tee ohjelma, joka arpoo 100 lukua [0...50] väliltä ja tallettaa ne taulukkoon iT. Arvotut luvut sekä luvuista saatu keskiarvo, joka ilmoitetaan käyttäjälle.
+
+Toteuta ohjelma seuravasti:
+
+ Määritä yksiulotteinen taulukko
+
+ // Lukujen arvonta
+ Silmukka alkaa
+ Arvo luku taulukon indeksiin
+ Silmukka päättyy
+
+ // Laske summa ja keskiarvo
+ Silmukka alkaa
+ Laske taulukon indeksin sisällöt yhteen
+ Silmukka päättyy
+ Laske Keskiarvo
+
+ // Tulosta vastaus
+ Silmukka alkaa
+ Tulosta taulukon indeksin sisällöt
+ Silmukka päättyy
+ Tulosta Keskiarvo
+
+Esim. vastaus:
+1. 2
+2. 3
+3. 45
+4. 45
+5. 23
+6. 0
+7. 10
+8. 50
+...
+100. 4
+
+Ka. = 24
+
+
+Satunnaisluvun arvonta tapahtuu seuraavasti:
+Random rnd = new Random(); // Luodaan uusi ilmentymä rnd oliosta Random.
+
+rnd.NextDouble(); metodi arpoo luvun 0...1 väliltä
+
+rnd.Next(100); metodi arpoo kokonaisluvun 0 ja 100 väliltä [0...100[
+
+#2. Kirjoita ohjelma, joka arpoo yksiuloitteiseen kokonaisluku
+(koko 10) taulukkoon arvot [0,20[
+
+Tulosta taulukooon arvotut luvut seuraavasti:
+Huom. tee funktio, joka muuttaa luvunt 0..9 => 00-09
+
+[X] = Arvo
+[0] = 11
+[1] = 02
+...
+[9] = 05
+
+
+#3. Kirjoita ohjelma, joka arpoo kaksiuloitteiseen kokonaisluku
+(koko 10,20) taulukkoon arvot [0,100[
+
+Tulosta taulukooon arvotut luvut seuraavasti:
+Huom. tee funktio, joka muuttaa luvunt 0..9 => 00-09
+
+[X, Y] = Arvo
+[0, 0] = 78
+[0, 1] = 02
+[0, 2] = 09
+
+...
+
+[0,19] = 22
+
+...
+
+[9,19] = 26
+
+
+#4. Kirjoita ohjelma, joka määrittelee kolme kokonaislukutaulukkoa 
+arrT_1, arrT_2, arrT_3, joista jokaisessa on 10 kokonaislukua. 
+Alusta taulukot haluamallasi tavalla. Tämän jälkeen ohjelma vertaa 
+taulukoiden arrT_1 ja arrT_2 alkioita indeksi kerrallaan ja sijoittaa 
+suuremman löydetyistä arvoista taulukkoon arrT_3 vastaavan alkion arvoksi.
+Lopuksi tulostetaan taulukot alekkain niin, että yhden taulukon alkiot ovat omalla rivillään.
+
+Esim.
+
+        01 02 03 04 05 06 07 08 09 10
+        -----------------------------
+arrT_1: 34 21 07 09 12 15 49 22 01 17
+arrT_2: 24 31 17 39 16 12 21 22 10 37
+arrT_3: 34 31 17 39 16 15 49 22 10 37
+
+#5. LOTTO-ohjelma
+1. Ohjelma arpoo 7 eri lukua 1-40 ja tulostaa arvotut luvut pienimmästä suurimpaan.
+
+2. Ohjelmassa voidaan valita kuinkan monta riviä arvotaan (á 1,00€). 
+- Samoin tuplataanko voitto (0,30€). 
+- Kesto: 1,2,3,5,10 vko
+- Lopuksi näytetään yhteenveto, paljonko lottokuponki maksaa
+
+Lottokuponki tallennetaan tiedostoon (lottorivit), josta se voidaan tulostaa
+
+3. Lottorivin tarkastus . 
+- Arvotaan oikea lottorivi
+- Arvotaan lisänumero (ei saa olla sama kuin voittonumero)
+- Arvotaan tuplausnumero (ei saa olla mikään aikaisemmista arvotuista)
+
+Luetaan tiedostosta lottorivit ja tarkastetann kuinkan monta oikeaa numeroa ko. rivillä oli.Lopuksi tulostetaan voitonjako.
+
+
+1. Vastaus:
+Arvottu lottorivi
+5,7,12,24,25,30,33
+
+2. Vastaus:
+1. 3,7,8,10,15,36,40
+2. 2,5,7,12,15,19,27
+3. 5,9,23,24,27,29,39
+...
+n. 9,10,13,26,27,30,39
+
+3. Oikea lottorivi: 3,7,10,26,27,30,39
+   Lisänumero: 13
+   Tuplausnumero: 4
+
+
+Voitonjako
+Voittoluokka	Lukumäärä
+7 oikein	    0 	    kpl
+6 + 1 oikein	1 	    kpl
+6 oikein	    3 	    kpl
+5 oikein	    1 230 	kpl
+4 oikein	    10 000 	kpl
+3 + 1 oikein	9 000	kpl
+3 oikein	    5 400	kpl
