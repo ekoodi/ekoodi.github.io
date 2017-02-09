@@ -1,5 +1,5 @@
-##Laadi C# -ohjelma mäenlaskun pistelaskentaan.
-Järjestelmään syötetään kilpailijat. Kilpailun edetessä pisteet oheisen kuvauksen mukaisesti. 
+##Laadi C# -ohjelma mäenlaskun pistelaskentaan. Toteuta graafinen käyttöliittymä haluamallasi tavalla.
+Mieti millaista tietoa järjestelmään tarvitaan etukäteen ja mitä kilpailun aikana. Kilpailun edetessä pisteet lasketaan oheisen kuvauksen mukaisesti. 
 
 **Tulokset** ilmoitetaan parhaan tulos ensin jne.
 
