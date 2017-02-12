@@ -9,6 +9,6 @@ Suoritusjärjestys on seuraava:
 2. silmukka
 3. funktiot ja aliohjelmat
 4. merkkijonon käsittely
-5. harjoitustehtävät 
+5. harjoitustehtävät (https://github.com/ekoodi/ekoodi.github.io/tree/master/programming-tasks)
 
 Tehtävät laaditaan VisualStudio 2015 editorilla/C# -ohjelmontikielellä ja tuotokset julkaistaa jokaisen omaan github versionhallintaan.
