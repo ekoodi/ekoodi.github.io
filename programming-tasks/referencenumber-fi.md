@@ -1,7 +1,7 @@
 ##Tee C#-ohjelma:
 ### 1. joka tarkastaa kotimaisen viitenumeron
 ### 2. luo kotimaisen viitenumero
-### 3. luo halutun m‰‰r‰n kotimaisia viitenumeroita
+### 3. luo halutun m√§√§r√§n kotimaisia viitenumeroita
 
 Tutustu Finassialan Keskusliiton oppaaseen
 http://www.finanssiala.fi/maksujenvalitys/dokumentit/kotimaisen_viitteen_rakenneohje.pdf
@@ -33,4 +33,4 @@ Counted referencenumbers:
 7. 123 45672
 8. 123 45685
 9. 123 45698
-10.1234 56104
+10. 1234 56104
