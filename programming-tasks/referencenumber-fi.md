@@ -6,22 +6,33 @@
 Tutustu Finassialan Keskusliiton oppaaseen
 http://www.finanssiala.fi/maksujenvalitys/dokumentit/kotimaisen_viitteen_rakenneohje.pdf
 
-esim. 1.
-input: 12345672
-output: 123 45672 - OK
+__esim. 1.__
 
-input: 12345673
-output: Referencenumber Incorrect
+- input: 12345672
+- output: 123 45672 - OK
 
-esim. 2.
-input: 1234567
-output: 123 45672
+--
+- input: 12345673
+- output: Referencenumber Incorrect
 
-esim. 3. 
-Referencenumber basepart input: 123456
+--
+
+__esim. 2.__
+- input: 1234567
+- output: 123 45672
+
+--
+
+__esim. 3.__
+
+__input:__
+
+Referencenumber basepart: 123456
+
 Amount of referencenumbers: 10
 
-Output:
+__output:__
+
 Counted referencenumbers:
 
 1. 123 45614
