@@ -20,7 +20,9 @@ Input: 2 Vastaus: Numero 2 on parillinen
 ## 3. Yhdistä 1 ja 2.
 
 Esim. Input: 3 Vastaus: Numero 3 on positiivinen ja pariton
+
 Esim. Input: -2 Vastaus: Numero -2 on negatiivinen ja parillinen
+
 Esim. Input: 0 Vastaus: Numero 0 on nolla ja parillinen
 
 ## 4. Käyttäjältä pyydetään 3 lukua.
