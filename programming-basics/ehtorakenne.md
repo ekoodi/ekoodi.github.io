@@ -12,7 +12,9 @@ Esim. Input: 3 Vastaus: Numero 3 on positiivinen.
 ## 2. Käyttäjää pyydetään kirjoittamaan ohjelmalle 1 luku.
 
 Ohjelma tulostaa parillinen tai pariton.
+
 Esim. Input: 3 Vastaus: Numero 3 on pariton
+
 Input: 2 Vastaus: Numero 2 on parillinen
 
 ## 3. Yhdistä 1 ja 2.
