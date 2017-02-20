@@ -50,6 +50,7 @@ Tee tilinumerosta 18 merkkiä pitä. Kaksi ensimmäistä merkkiä ovat 'FI'. Gen
 - [Class](https://msdn.microsoft.com/en-us/library/x9afc042.aspx)
 - [Properties](https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx)
 
----
+--
+
 - [Best Practices GitHub] (https://github.com/futurice/windows-app-development-best-practices)
 - [Best Practices Microsoft MSDN] (https://msdn.microsoft.com/en-us/library/ms184412(v=vs.100).aspx)
