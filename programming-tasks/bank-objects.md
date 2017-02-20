@@ -6,7 +6,7 @@ Asiakas
 - etunimi
 - sukunimi
 - tilinumero
-- override ToString()
+- override ToString() (ylikirjoita luokan default ToString-metodi)
 
 Pankki
 - nimi
@@ -34,8 +34,8 @@ Tilitapahtuma
 
 1. Toteuta yllä mainitut luokat. 
 Kiinnitä huomiota seuraaviin asioihin: private vs public, propertyt, nimeämiskäytännöt. Lisää muuttujia ja metodeja tarpeen mukaan harjoituksen edetessä.
-2. Luo pankki-olio
-3. Luo kolme asiakas-oliota
+2. Luo pankki-olio.
+3. Luo kolme asiakas-oliota.
 4. Luo pankkiin jokaiselle asiakkaalle oma pankkitili. Pankkiin luodun tilin tilinumero palautetaan talletetaan asiakas-olion muuttujaan.
 Tee tilinumerosta 18 merkkiä pitä. Kaksi ensimmäistä merkkiä ovat 'FI'. Generoi loput merkit käyttäen C#:n Random-luokkaa.
 5. Lisää pankkiin jokaisen asiakkaan tilille jokin summa rahaa luomalla tilille uusi/uusia tilitapahtumia. Käytä asiakkaalta löytyvää tilinumeroa, jotta tapahtumat kohdistuvat oikealle tilille.
@@ -45,6 +45,7 @@ Tee tilinumerosta 18 merkkiä pitä. Kaksi ensimmäistä merkkiä ovat 'FI'. Gen
 
 ## Aiheeseen liittyviä linkkejä
 
-- LINQ https://msdn.microsoft.com/en-us/library/bb907066.aspx
-- Properties https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx
-- Best Practices https://msdn.microsoft.com/en-us/library/ms184412(v=vs.100).aspx
+- [Object-Oriented Programming](https://msdn.microsoft.com/en-us/library/mt656686.aspx)
+- [LINQ](https://msdn.microsoft.com/en-us/library/bb907066.aspx)
+- [Properties](https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx)
+- [Best Practices](https://msdn.microsoft.com/en-us/library/ms184412(v=vs.100).aspx)
