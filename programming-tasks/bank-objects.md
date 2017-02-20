@@ -45,6 +45,6 @@ Tee tilinumerosta 18 merkkiä pitä. Kaksi ensimmäistä merkkiä ovat 'FI'. Gen
 
 ## Aiheeseen liittyviä linkkejä
 
-LINQ https://msdn.microsoft.com/en-us/library/bb907066.aspx
-Properties https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx
-Best Practices https://msdn.microsoft.com/en-us/library/ms184412(v=vs.100).aspx
+*LINQ https://msdn.microsoft.com/en-us/library/bb907066.aspx
+*Properties https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx
+*Best Practices https://msdn.microsoft.com/en-us/library/ms184412(v=vs.100).aspx
