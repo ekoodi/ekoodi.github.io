@@ -1,12 +1,15 @@
 # C# olio-ohjelmoinnin perusteet
 
 Tee luokka **Auto**, jolla on **(jäsen)muuttujina** merkki ja nopeus. 
-Toteuta Auto -luokalle oletusmuodostin ja muodostin parametreilla (Constructor)
-- oletusmuodostimessa asetetaan alkuarvot merkki ja nopeus muuttujille (vaikkapa Ford ja 80)
+Toteuta Auto -luokalle oletusmuodostin (Constructor) ja muodostin parametreilla 
+- oletusmuodostimessa asetetaan alkuarvot merkki ja nopeus muuttujille (vaikkapa Ford ja 80 km/h)
 - muodostin paramatreilla
 
 Auto -luokalla on **(jäsen)funktiona eli metodi** näytäTiedot().  
 näytäTiedot() -metodi tulostaa käyttäjälle auton merkin ja nopeuden. 
+esim. 
+* Merkki: Ford
+* Nopeus: 80 km/h
 
 Tee testeri, jossa luot vähintään kolme auto-oliota ja lähetät niille näytäTiedot() viestin.
 
