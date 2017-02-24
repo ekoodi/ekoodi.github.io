@@ -19,11 +19,11 @@ lisää Auto olion nopeutta tällä muutoksella. Tee tarvittavat lisäykset test
 Lisää Auto-luokkaan jarruta() -metodi, joka vähentää auton nopeutta 10%. Tee tarvittavat muutokset myös testeriin.
 
 Sanasto:
-Luokka = Class
-Oletusmuodostin, muodostin = Constructor
-Jäsenmuuttuja, muuttuja, attribuutti = Field, Variable, Attribute
-Jäsenfunktio, funktio = Method
-Ominaisuus = Property
+- Luokka = Class
+- Oletusmuodostin, muodostin = Constructor
+- Jäsenmuuttuja, muuttuja, attribuutti = Field, Variable, Attribute
+- Jäsenfunktio, funktio = Method
+- Ominaisuus = Property
 
 ## Tarvittava luokka:
 
