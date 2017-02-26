@@ -36,8 +36,8 @@ Tilitapahtuma
 Kiinnitä huomiota seuraaviin asioihin: private vs public, propertyt, nimeämiskäytännöt. Lisää muuttujia ja metodeja tarpeen mukaan harjoituksen edetessä.
 2. Luo pankki-olio.
 3. Luo kolme asiakas-oliota.
-4. Luo pankkiin jokaiselle asiakkaalle oma pankkitili. Pankkiin luodun tilin tilinumero palautetaan talletetaan asiakas-olion muuttujaan.
-Tee tilinumerosta 18 merkkiä pitä. Kaksi ensimmäistä merkkiä ovat 'FI'. Generoi loput merkit käyttäen C#:n Random-luokkaa.
+4. Luo pankkiin jokaiselle asiakkaalle oma pankkitili. Pankkiin luodun tilin tilinumero palautetaan ja talletetaan asiakas-olion muuttujaan.
+Tee tilinumerosta 18 merkkiä pitkä. Kaksi ensimmäistä merkkiä ovat 'FI'. Generoi loput merkit käyttäen C#:n Random-luokkaa.
 5. Lisää pankkiin jokaisen asiakkaan tilille jokin summa rahaa luomalla tilille uusi/uusia tilitapahtumia. Käytä asiakkaalta löytyvää tilinumeroa, jotta tapahtumat kohdistuvat oikealle tilille.
 6. Kysy pankista jokaisen asiakkaan tilin saldo ja tulosta asiakas (käytä asiakas-olion ToString()-metodia) sekä hänen saldonsa.
 7. Kuluta asiakkaiden tileiltä rahaa luomalla pankkiin asiakkaiden tileille uusia tilitapahtumia eri aikaleimoilla ja negatiivisilla summilla.
@@ -47,6 +47,7 @@ Tee tilinumerosta 18 merkkiä pitä. Kaksi ensimmäistä merkkiä ovat 'FI'. Gen
 
 - [Object-Oriented Programming](https://msdn.microsoft.com/en-us/library/mt656686.aspx)
 - [LINQ](https://msdn.microsoft.com/en-us/library/bb907066.aspx)
+- [LINQ Methods] (https://msdn.microsoft.com/en-us/library/system.linq.enumerable_methods(v=vs.110).aspx)
 - [Class](https://msdn.microsoft.com/en-us/library/x9afc042.aspx)
 - [Properties](https://msdn.microsoft.com/en-us/library/x9fsa0sw.aspx)
 
