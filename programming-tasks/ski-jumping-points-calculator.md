@@ -32,4 +32,4 @@ Ja mäkimonttu riehaantuu!
 
 **Lähde:**
 
-www.fis-ski.co
+www.fis-ski.com
