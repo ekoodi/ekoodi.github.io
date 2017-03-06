@@ -10,8 +10,6 @@ Web site == index.html (https://www.w3schools.com/html/)
 ####Build REST API
 https://docs.microsoft.com/en-us/aspnet/web-api/overview/getting-started-with-aspnet-web-api/tutorial-your-first-web-api
 
-(https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api)
-This one is old ^^
 
 ####Test API using Postman
 https://www.getpostman.com/
