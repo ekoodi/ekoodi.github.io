@@ -12,3 +12,12 @@ https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/build-re
 
 ####Test API using Postman
 https://www.getpostman.com/
+
+####Example of creating Web API using C# and Visual Studio
+https://github.com/santtone/web-api-sample
+
+When running, open browser and navigate to http://localhost:53981/api/users
+
+
+## Things to do
+Tee palvelu (Web API), joka kertoo onko tili- tai viitenumero kelvollinen. Hyödynnä aiemmissa harkoissa tehtyä koodia!
