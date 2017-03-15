@@ -17,6 +17,7 @@ HTML, CSS, JavaScript
 #### Lisätehtävät:
 -	Tallenna contacts-array selaimen Local Storageen ja contactien lisäyksen yhteydessä päivitä muuttuneet tiedot Local Storageen. Hae yhteystiedot käyttöliittymän taulukkoon heti sivun latauduttua käyttäen body-elementin onload eventtiä.
 -	Toteuta yhteystietojen muokkaus ja poisto
+-   Tee taulukon osoite-kentän tekstistä linkki, joka avaa Google Mapsin uuteen välilehteen ja näyttää contactin sijainnin kartalla.
 -	Ota käyttöön Material Design Lite –kirjasto ja toteuta käyttöliittymä käyttäen sen tarjoamia komponentteja
 
 ## Links
