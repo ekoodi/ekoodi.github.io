@@ -33,7 +33,7 @@ Yhteystiedot voi olla jemmassa joko server-sovelluksen muistissa tai levylle kir
 
 6. Lataa jQuery ja ota se käyttöön tekemässäsi contacts-app client-sovelluksessa.
 
-7. Tee clientilta HTTP-kutsuja tekemääsi palveluun:
+7. Tee clientilta HTTP-kutsuja (jQuery auttaa tässä) tekemääsi palveluun:
 * Hae käyttöliittymässä näytettävät yhteystiedot
 * Lisää uusi yhteystieto
 * Muokkaa/Poista yhteystieto
