@@ -1,22 +1,22 @@
-# MERKKIJONON KÄSITTELY
+#MERKKIJONON KÄSITTELY
 
-## Yleiskuvaus 
+##Yleiskuvaus 
 
 Toteutetaan ehtorakenteita C#-ohjelmointikielellä.
 
-## Laatija 
+##Laatija 
 
-Jouni Könönen, Esa Ääpälä
+Simo Popponen, Janne Puolitaival, Julian Parman, Jarkko Koskinen
 
-## Päiväys / Versio 
+##Päiväys / Versio 
 
 22.3.2017
 
-## Prosessi 
+##Prosessi 
 
 Ohjelmoinnin perusteet
 
-## Käyttäjäroolit 
+##Käyttäjäroolit 
 
 <table>
   <thead>
@@ -40,43 +40,43 @@ Ohjelmoinnin perusteet
   </tbody>
 </table>
 
-## Esitiedot/ehdot 
+##Esitiedot/ehdot 
 
 * Työvälineet asennuttuna ja toimintakunnossa
 * Tutustuttu ohjelmointiympäristöön
 * Debuggaus hallinnassa
 
-## Käyttötapauksen kuvaus
+##Käyttötapauksen kuvaus
 
 https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/ehtorakenne.md
 
 
-## Poikkeukset
+##Poikkeukset
 
-### P1
+###P1
 
 Kääntäminen ei onnistu. 
 Tarkista virheilmoitukset ja ohjelman mahdolliset muut virheet esim. syntaksi virheet.
 
-### P2 
+###P2 
 
 Lopputulos on virheellinen. Tarkista ohjelman logiikka debuggaamalla ja lähtöarvot.
 
-## Lopputulos 
+##Lopputulos 
 
 Ohjelmointiharjoitukset saadaan toimimaan virheettömästi. Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä.
 PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulokset voidaan myös kuvata tässä kappaleessa.
 
-## Muut vaatimukset
+##Muut vaatimukset
 
 * v1: Ohjelmointikäytännöt
 * v2: Koodin look and feel ;-)
 
 
-## Käyttötiheys 
+##Käyttötiheys 
 
 Suoritetaan niin kauan, kunnes harjoitteet toimivat ja niiden toiminnallisuus ymmärretään.
 
-## Muuta 
+##Muuta 
 
 Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/README.md
