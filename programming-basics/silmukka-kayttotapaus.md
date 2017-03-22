@@ -1,26 +1,26 @@
-Silmukka
-Yleiskuvaus
+#  Silmukka
+## Yleiskuvaus
 
 Toteutetaan silmukkarakenteita C#-ohjelmointikielellä.
 
-Laatija
+## Laatija
 
 Pöytä 5
 
-Päiväys / Versio
+## Päiväys / Versio
 
 22.3.2017
 
-Prosessi
+## Prosessi
 
 Ohjelmoinnin perusteet
 
-Käyttäjäroolit
+## Käyttäjäroolit
 
 Rooli	Kuvaus	Oikeudet
 Rooli 1	Aloittelija	Luku, kirjoitus, testaus, kääntäminen
 Rooli 2	Opettaja	Katselmointi
-Esitiedot/silmukat
+## Esitiedot/silmukat
 
 Työvälineet asennuttuna ja toimintakunnossa
 Tutustuttu ohjelmointiympäristöön
@@ -29,17 +29,17 @@ Käyttötapauksen kuvaus
 
 https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/silmukka.md
 
-Poikkeukset
+ ## Poikkeukset
 
-P1
+ ## P1
 
-Kääntäminen ei onnistu. Tarkista virheilmoitukset ja ohjelman mahdolliset muut virheet esim. syntaksi virheet.
+Kääntäminen ei onnistu. Tarkista virheilmoitukset ja ohjelman mahdolliset muut virheet esim. syntaksivirheet.
 
-P2
+ ## P2
 
 Lopputulos on virheellinen. Tarkista ohjelman logiikka debuggaamalla ja lähtöarvot.
 
-Lopputulos
+## Lopputulos
 
 Ohjelmointiharjoitukset saadaan toimimaan virheettömästi. Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä. PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulokset voidaan myös kuvata tässä kappaleessa.
 
@@ -51,6 +51,6 @@ Käyttötiheys
 
 Suoritetaan niin kauan, kunnes harjoitteet toimivat ja niiden toiminnallisuus ymmärretään.
 
-Muuta
+## Muuta
 
 Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/funktiot-aliohjelmat.md
