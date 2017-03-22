@@ -1,12 +1,12 @@
-# EHTORAKENNE
+# MÄKIHYPPELYN PISTELASKU
 
 ## Yleiskuvaus 
 
-Toteutetaan ehtorakenteita C#-ohjelmointikielellä.
+Toteutetaan mäkihypyn listelaskenta C#-ohjelmointikielellä.
 
 ## Laatija 
 
-Jouni Könönen, Esa Ääpälä
+Hannu Möller, Mika Väisänen, Pasi Viinanen, Jani Nicoleascu
 
 ## Päiväys / Versio 
 
@@ -14,7 +14,7 @@ Jouni Könönen, Esa Ääpälä
 
 ## Prosessi 
 
-Ohjelmoinnin perusteet
+Ohjelmoinnin perusteet 2
 
 ## Käyttäjäroolit 
 
@@ -42,13 +42,15 @@ Ohjelmoinnin perusteet
 
 ## Esitiedot/ehdot 
 
-* Työvälineet asennuttuna ja toimintakunnossa
+* Työvälineet asennettuna ja toimintakunnossa
 * Tutustuttu ohjelmointiympäristöön
+* oliomallinnus ja -ohjelmointi hallussa
+* C# hallussa
 * Debuggaus hallinnassa
 
 ## Käyttötapauksen kuvaus
 
-https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/ehtorakenne.md
+https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-tasks/ski-jumping-points-calculator.md
 
 
 ## Poikkeukset
@@ -79,4 +81,4 @@ Suoritetaan niin kauan, kunnes harjoitteet toimivat ja niiden toiminnallisuus ym
 
 ## Muuta 
 
-Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/README.md
+Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-tasks/README.md
