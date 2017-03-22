@@ -14,7 +14,7 @@ Jouni Könönen, Esa Ääpälä
 
 ## Prosessi 
 
-Ohjelmoinninperusteet
+Ohjelmoinnin perusteet
 
 ## Käyttäjäroolit 
 
