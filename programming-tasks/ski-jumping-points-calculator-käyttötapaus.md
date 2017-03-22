@@ -64,6 +64,10 @@ Tarkista virheilmoitukset ja ohjelman mahdolliset muut virheet esim. syntaksi vi
 
 Lopputulos on virheellinen. Tarkista ohjelman logiikka debuggaamalla ja lähtöarvot.
 
+### P3
+
+Ohjelma ei ota vastaan käyttäjän komentoja. Tarkista käytetyt komponentit ja ...
+
 ## Lopputulos 
 
 Ohjelmointiharjoitukset saadaan toimimaan virheettömästi. Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä.
@@ -80,5 +84,7 @@ PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulo
 Suoritetaan niin kauan, kunnes harjoitteet toimivat ja niiden toiminnallisuus ymmärretään.
 
 ## Muuta 
+
+Graafisen käyttöliittymän voi toteuttaa vaihtoehtoisesti WPF:llä.
 
 Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-tasks/README.md
