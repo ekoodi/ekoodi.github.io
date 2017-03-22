@@ -2,7 +2,7 @@
 
 ## Yleiskuvaus 
 
-Toteutetaan mäkihypyn listelaskenta C#-ohjelmointikielellä.
+Toteutetaan mäkihypyn pistelaskenta C#-ohjelmointikielellä.
 
 ## Laatija 
 
