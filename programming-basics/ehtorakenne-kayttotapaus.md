@@ -44,7 +44,7 @@ Ohjelmoinninperusteet
 
 * Työvälineet asennuttuna ja toimintakunnossa
 * Tutustuttu ohjelmointiympäristöön
-* Debugaus hallinnassa
+* Debuggaus hallinnassa
 
 ## Käyttötapauksen kuvaus
 
