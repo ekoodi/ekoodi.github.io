@@ -2,7 +2,7 @@
 
 ##Yleiskuvaus 
 
-Toteutetaan ehtorakenteita C#-ohjelmointikielellä.
+Käsitellään merkkijonoja C#-ohjelmointikielellä.
 
 ##Laatija 
 
@@ -45,11 +45,11 @@ Ohjelmoinnin perusteet
 * Työvälineet asennuttuna ja toimintakunnossa
 * Tutustuttu ohjelmointiympäristöön
 * Debuggaus hallinnassa
+* C#-kielen perussyntaksi hallinnassa
 
 ##Käyttötapauksen kuvaus
 
-https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/ehtorakenne.md
-
+https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/merkkijonon-kasittely.md
 
 ##Poikkeukset
 
