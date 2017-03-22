@@ -79,4 +79,4 @@ Suoritetaan niin kauan, kunnes harjoitteet toimivat ja niiden toiminnallisuus ym
 
 ## Muuta 
 
-Voidaan siirtyä seuraavaan harjoitukseen.
+Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/README.md
