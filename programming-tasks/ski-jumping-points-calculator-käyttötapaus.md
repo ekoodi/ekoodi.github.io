@@ -6,7 +6,7 @@ Toteutetaan mäkihypyn pistelaskenta C#-ohjelmointikielellä.
 
 ## Laatija 
 
-Hannu Möller, Mika Väisänen, Pasi Viinanen, Jani Nicoleascu
+Hannu Möller, Mika Väisänen, Pasi Viinanen, Jani Niculescu
 
 ## Päiväys / Versio 
 
