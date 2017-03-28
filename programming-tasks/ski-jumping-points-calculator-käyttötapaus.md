@@ -29,11 +29,16 @@ Ohjelmoinnin perusteet 2
   <tbody>
   <tr>
       <td>Rooli 1</td>
-      <td>Aloittelija</td>
-      <td>Luku, kirjoitus, testaus, kääntäminen</td>
+      <td>Koodaaja</td>
+      <td>Luku, kirjoitus, yksikkötestaus, kääntäminen</td>
   </tr>
   <tr>
       <td>Rooli 2</td>
+      <td>Testaaja</td>
+      <td>integrointitestaus</td>
+  </tr>
+  <tr>
+      <td>Rooli 3</td>
       <td>Opettaja</td>
       <td>Katselmointi</td>
   </tr>
@@ -70,7 +75,25 @@ Ohjelma ei ota vastaan käyttäjän komentoja. Tarkista käytetyt komponentit ja
 
 ## Lopputulos 
 
-Ohjelmointiharjoitukset saadaan toimimaan virheettömästi. Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä.
+Ohjelmointiharjoitukset saadaan toimimaan virheettömästi.
+
+### Pituuspisteet
+
+- hyppyrimäen koko vaikuttaa
+
+### Lähtölavahyvitykset
+
+- mäkikohtaisia!
+
+### Tuulihyvitykset
+
+- mäkikohtaisia (huom! myötä- ja vastatuulille eri hyvitykset!)
+
+### Tuomaripisteet
+
+- huomioi laskentasäännöt
+
+Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä.
 PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulokset voidaan myös kuvata tässä kappaleessa.
 
 ## Muut vaatimukset
