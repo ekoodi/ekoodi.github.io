@@ -3,14 +3,19 @@
 ## Yleiskuvaus 
 
 Toteutetaan mäkihypyn pistelaskenta C#-ohjelmointikielellä.
+Käyttöliittymä mielellään graafisena, mutta konsoliversio
+hyväksytään myös.
 
-## Laatija 
+## Laatijat
 
-Hannu Möller, Mika Väisänen, Pasi Viinanen, Jani Niculescu
+- Hannu Möller
+- Mika Väisänen
+- Pasi Viinanen
+- Jani Niculescu
 
 ## Päiväys / Versio 
 
-22.3.2017
+28.3.2017
 
 ## Prosessi 
 
@@ -49,7 +54,7 @@ Ohjelmoinnin perusteet 2
 
 * Työvälineet asennettuna ja toimintakunnossa
 * Tutustuttu ohjelmointiympäristöön
-* oliomallinnus ja -ohjelmointi hallussa
+* Oliomallinnus ja -ohjelmointi hallussa
 * C# hallussa
 * Debuggaus hallinnassa
 
@@ -71,15 +76,15 @@ Lopputulos on virheellinen. Tarkista ohjelman logiikka debuggaamalla ja lähtöa
 
 ### P3
 
-Ohjelma ei ota vastaan käyttäjän komentoja. Tarkista käytetyt komponentit ja ...
+Ohjelma ei ota vastaan käyttäjän komentoja. Tarkista käytetyt komponentit ja korjaa logiikka.
 
 ## Lopputulos 
 
-Ohjelmointiharjoitukset saadaan toimimaan virheettömästi.
+Ohjelmointiharjoitus saadaan toimimaan virheettömästi.
 
 ### Pituuspisteet
 
-- hyppyrimäen koko vaikuttaa
+- hyppyrimäen koko vaikuttaa pituuskertoimiin
 
 ### Lähtölavahyvitykset
 
@@ -111,3 +116,8 @@ Suoritetaan niin kauan, kunnes harjoitteet toimivat ja niiden toiminnallisuus ym
 Graafisen käyttöliittymän voi toteuttaa vaihtoehtoisesti WPF:llä.
 
 Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-tasks/README.md
+
+## Ulkoiset dokumentit
+
+- http://www.fis-ski.com/mm/Document/documentlibrary/Skijumping/03/19/96/ICR_JP_2012_Final_English.pdf
+- https://en.wikipedia.org/wiki/Ski_jumping
