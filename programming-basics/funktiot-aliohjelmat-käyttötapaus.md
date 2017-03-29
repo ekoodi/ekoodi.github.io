@@ -1,4 +1,4 @@
-# Funktiot-aliohjelmat
+# FUNKTIOT-ALIOHJELMAT
 
 ## Yleiskuvaus 
 
