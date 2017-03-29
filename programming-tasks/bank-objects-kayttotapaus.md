@@ -8,10 +8,10 @@ Toteutetaan C#-ohjelmointikielellä. Oliopohjainen ohjelma. Simuloi asiakkaiden 
 
 ## Laatija 
 
-Mikko Peltonen
-Vesa Hongisto
-Tommi Saira
-Toni Pulkkinen
+- Mikko Peltonen
+- Vesa Hongisto
+- Tommi Saira
+- Toni Pulkkinen
 
 ## Päiväys / Versio 
 
