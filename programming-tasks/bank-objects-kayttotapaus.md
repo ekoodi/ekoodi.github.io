@@ -94,7 +94,7 @@ Ohjelma toimii tehtävänannon mukaisesti.
 ## Muut vaatimukset
 
 * v1: Standardin mukaiset nimeämiskäytännöt
-- esim. privaattimuuttujat alkavat alaviivalla ja publicit alkavat isolla alkukirjaimella
+  - esim. privaattimuuttujat alkavat alaviivalla ja publicit alkavat isolla alkukirjaimella
 * v2: Luokat on jaotettu omiksi tiedostoikseen
 * v3: Vain tarvittavat metodit ovat näkyvillä
 
