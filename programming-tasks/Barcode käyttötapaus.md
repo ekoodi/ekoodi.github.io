@@ -2,7 +2,7 @@
 
 ## Yleiskuvaus 
 
-Toteutetaan virtuaaliviivakoodin luonti-ohjelma pankkiviivakoodi-oppaan kuvauksen mukaisesti C#-ohjelmointikielellä.
+Toteutetaan virtuaaliviivakoodin luonti-ohjelma pankkiviivakoodi-oppaan (Finanssialan keskusliitto v.5.3) kuvauksen mukaisesti C#-ohjelmointikielellä.
 
 ## Laatija 
 
