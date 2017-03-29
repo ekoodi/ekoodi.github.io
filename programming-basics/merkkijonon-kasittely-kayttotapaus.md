@@ -6,7 +6,7 @@ Käsitellään merkkijonoja C#-ohjelmointikielellä.
 
 ## Laatija 
 
-Simo Popponen, Janne Puolitaival, Julian Parman, Jarkko Koskinen
+Simo Popponen, Janne Puolitaival, Julian Parman, Jarkko Koskinen (Pöytä 3)
 
 ## Päiväys / Versio 
 
