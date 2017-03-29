@@ -30,11 +30,11 @@ Ohjelmoinnin perusteet
   <tr>
       <td>Rooli 1</td>
       <td>Oppilas</td>
-      <td>Opettaja</td>
+      <td>Luku, kirjoitus, testaus, kääntäminen</td>
   </tr>
   <tr>
       <td>Rooli 2</td>
-      <td>Luku, kirjoitus, testaus, kääntäminen</td>
+      <td>Opettaja</td>
       <td>Katselmointi</td>
   </tr>
   </tbody>
