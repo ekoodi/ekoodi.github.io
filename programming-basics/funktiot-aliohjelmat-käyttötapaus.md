@@ -2,11 +2,11 @@
 
 ## Yleiskuvaus 
 
-
+Toteutetaan funktioita C#-ohjelmointikielellä.
 
 ## Laatija 
 
-
+Table 1.
 
 ## Päiväys / Versio 
 
@@ -29,13 +29,13 @@ Ohjelmoinnin perusteet
   <tbody>
   <tr>
       <td>Rooli 1</td>
-      <td> </td>
-      <td> </td>
+      <td>Oppilas</td>
+      <td>Opettaja</td>
   </tr>
   <tr>
       <td>Rooli 2</td>
-      <td> </td>
-      <td> </td>
+      <td>Luku, kirjoitus, testaus, kääntäminen</td>
+      <td>Katselmointi</td>
   </tr>
   </tbody>
 </table>
@@ -65,7 +65,6 @@ Lopputulos on virheellinen. Tarkista ohjelman logiikka debuggaamalla ja lähtöa
 ## Lopputulos 
 
 Ohjelmointiharjoitukset saadaan toimimaan virheettömästi. Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä.
-PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulokset voidaan myös kuvata tässä kappaleessa.
 
 ## Muut vaatimukset
 
