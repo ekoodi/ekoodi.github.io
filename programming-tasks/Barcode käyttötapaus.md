@@ -56,15 +56,20 @@ https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-tasks/barcode
 ### P1
 
 Kääntäminen ei onnistu. 
-Tarkista virheilmoitukset ja ohjelman mahdolliset muut virheet esim. syntaksi virheet.
+Tarkista virheilmoitukset, ympäristö ja ohjelman mahdolliset muut virheet esim. syntaksi virheet.
 
-### P2 
+### P2
 
-Lopputulos on virheellinen. Tarkista ohjelman logiikka debuggaamalla ja lähtöarvot.
+Ohjelma kaatuu suoritettaessa. Tarkista virheilmoitukset ja syntaksi virheet.
 
+### P3 
 
-### P3
+Ohjelma tuottaa virheellisen viivakoodin. Tarkista ohjelman logiikka debuggaamalla ja lähtöarvot.
 
+### P4
+
+Ohjelmaan syötetyt arvot ovat virheelliset. Ohjelma palauttaa virheilmoituksen ja palaa alkuun. 
+Käyttäjä on virheellinen, tarkista käyttäjä. 
 
 
 ## Lopputulos 
@@ -75,7 +80,8 @@ PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulo
 ## Muut vaatimukset
 
 * v1: Ohjelmointikäytännöt
-* v2: Koodin look and feel ;-)
+* v2: Käytettävyys
+* v3: Koodin ulkoasu ja luettavuus
 
 
 ## Käyttötiheys 
