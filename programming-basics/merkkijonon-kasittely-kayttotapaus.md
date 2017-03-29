@@ -30,12 +30,12 @@ Ohjelmoinnin perusteet
   <tr>
       <td>Rooli 1</td>
       <td>Aloittelija</td>
-      <td>Luku, kirjoitus, testaus, kääntäminen</td>
+      <td>Luku, kirjoitus, testaus, kääntäminen, korjaaminen</td>
   </tr>
   <tr>
       <td>Rooli 2</td>
       <td>Opettaja</td>
-      <td>Katselmointi</td>
+      <td>Katselmointi, opastus</td>
   </tr>
   </tbody>
 </table>
@@ -67,11 +67,26 @@ Lopputulos on virheellinen. Tarkista ohjelman logiikka debuggaamalla ja lähtöa
 Ohjelmointiharjoitukset saadaan toimimaan virheettömästi. Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä.
 PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulokset voidaan myös kuvata tässä kappaleessa.
 
+### Harjoitus 1
+Valmis ohjelma, joka ilmoittaa käyttäjän syöttämästä syötteestä merkkien lukumäärän.
+
+### Harjoitus 2
+Valmis ohjelma, joka muuttaa käyttäjän syöttämästä syötteestä e kirjaimet @ merkiksi.
+
+### Harjoitus 3
+Valmis ohjelma, joka laskee käyttäjän syöttämästä syötteestä tietyn kirjaimen lukumäärän.
+
+### Harjoitus 4
+Valmis ohjelma, joka tarkastaa onko käyttäjältä kysytty sana tai lause palindromi.
+
+### Harjoitus 5
+Valmis ohjelma, joka laskee käyttäjän syöttämästä tiedosta vokaalien lukumäärän.
+
 ## Muut vaatimukset
 
 * v1: Ohjelmointikäytännöt
 * v2: Koodin look and feel ;-)
-
+* v3: Ymmärrys merkkijonojen käsittelystä.
 
 ## Käyttötiheys 
 
