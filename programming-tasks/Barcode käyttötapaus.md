@@ -2,7 +2,7 @@
 
 ## Yleiskuvaus 
 
-Toteutetaan ehtorakenteita C#-ohjelmointikielellä.
+Toteutetaan virtuaaliviivakoodin luonti-ohjelma pankkiviivakoodi-oppaan kuvauksen mukaisesti C#-ohjelmointikielellä.
 
 ## Laatija 
 
@@ -29,13 +29,18 @@ Ohjelmoinnin perusteet
   <tbody>
   <tr>
       <td>Rooli 1</td>
-      <td>Aloittelija</td>
+      <td>Ohjelmoija/ testaaja</td>
       <td>Luku, kirjoitus, testaus, kääntäminen</td>
   </tr>
   <tr>
       <td>Rooli 2</td>
       <td>Opettaja</td>
       <td>Katselmointi</td>
+  </tr>
+  <tr>
+      <td>Rooli 3</td>
+      <td>Loppukäyttäjä</td>
+      <td>Käyttäminen</td>
   </tr>
   </tbody>
 </table>
@@ -45,6 +50,7 @@ Ohjelmoinnin perusteet
 * Työvälineet asennuttuna ja toimintakunnossa
 * Tutustuttu ohjelmointiympäristöön
 * Debuggaus hallinnassa
+* Ylläpitosopimus
 
 ## Käyttötapauksen kuvaus
 
@@ -55,18 +61,22 @@ https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-tasks/barcode
 
 ### P1
 
-Kääntäminen ei onnistu. 
+Kääntäminen ei onnistu. <br>
 Tarkista virheilmoitukset, ympäristö ja ohjelman mahdolliset muut virheet esim. syntaksi virheet.
 
 ### P2
 
 Ohjelma kaatuu suoritettaessa. Tarkista virheilmoitukset ja syntaksi virheet.
 
-### P3 
+### P3
+
+Ohjelma ei reagoi käyttäjän antamiin komentoihin tai syötteisiin. Tarkista syntaksi virheet.
+
+### P4 
 
 Ohjelma tuottaa virheellisen viivakoodin. Tarkista ohjelman logiikka debuggaamalla ja lähtöarvot.
 
-### P4
+### P5
 
 Ohjelmaan syötetyt arvot ovat virheelliset. Ohjelma palauttaa virheilmoituksen ja palaa alkuun. 
 Käyttäjä on virheellinen, tarkista käyttäjä. 
@@ -74,20 +84,21 @@ Käyttäjä on virheellinen, tarkista käyttäjä.
 
 ## Lopputulos 
 
-Ohjelmointiharjoitukset saadaan toimimaan virheettömästi. Ohjelmakoodin täytyy noudattaa yleisiä käytäntöjä.
-PS. Jos harjoitteet ovat kuvattu käyttötapauksen kuvaus-kappaleessa, lopputulokset voidaan myös kuvata tässä kappaleessa.
+Ohjelma toimii virheettömästi ja tuottaa oikean virtuaaliviivakoodin. <br>
+Ohjelma antaa virhetapauksessa käyttäjälle virheilmoituksen, joka sisältää jatko-ohjeet.
 
 ## Muut vaatimukset
 
 * v1: Ohjelmointikäytännöt
 * v2: Käytettävyys
 * v3: Koodin ulkoasu ja luettavuus
-
+* v4: Ohjelman ulkoasu vastaa määrittelyjä
 
 ## Käyttötiheys 
 
-Suoritetaan niin kauan, kunnes harjoitteet toimivat ja niiden toiminnallisuus ymmärretään.
+Ohjelmaa ajetaan laskutuspäivänä tai laskutuksen yheydessä, laskuja luotaessa, kaksi kertaa kuussa eräajona. <br>
+Eräajo sisältää useita suorituskertoja.
 
 ## Muuta 
 
-Voidaan siirtyä seuraavaan harjoitukseen. Katso järjestys: https://github.com/ekoodi/ekoodi.github.io/blob/master/programming-basics/README.md
+Ohjelman päivitysajankohdasta sovitaan erikseen. Päivitykset suoritetaan ylläpitosopimuksessa sovitun huoltoikkunan aikana.
