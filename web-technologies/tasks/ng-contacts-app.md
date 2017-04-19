@@ -1,5 +1,5 @@
 # contacts-app
-Contacts-sovelluksen toteutus Angular 4:llä. Alla on esimerkit käyttöliittymästä ja tarvittavista luokista. UI:ta saa tuunata nätimmäksikin :)
+Contacts-sovelluksen toteutus Angular 4:llä. Alla on kuvaukset käyttöliittymästä ja tarvittavista luokista. UI:ta saa tuunata nätimmäksikin :)
 
 <img src="https://raw.githubusercontent.com/ekoodi/ekoodi.github.io/master/web-technologies/images/ng-contacts-app.png">
 <br></br>
