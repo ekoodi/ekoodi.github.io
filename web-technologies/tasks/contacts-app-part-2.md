@@ -20,10 +20,10 @@ Back-end (server)
 3. Muuta git-repositoryn hakemistorakennetta siten, että juuresta löytyy oma hakemistonsa sekä client-projektille että server-projektille. Clientin alle tulee nykyinen contacts-app toteutus ja serverin alle Web API.
 
 4. Tee palvelu, joka REST-rajapinnan kautta
-* Palauttaa kaikki yhteystiedot
-* Tallentaa uuden yhteystiedon
-* Päivittää yhteystiedon
-* Poistaa yhteystiedon
+* Palauttaa kaikki yhteystiedot (GET)
+* Tallentaa uuden yhteystiedon (POST)
+* Päivittää yhteystiedon (PUT)
+* Poistaa yhteystiedon (DELETE)
 
 Mallia Web API:n pystytykseen löytyy [täältä](https://github.com/santtone/web-api-sample).
 
