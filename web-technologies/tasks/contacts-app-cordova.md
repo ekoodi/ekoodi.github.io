@@ -46,7 +46,7 @@ Deploy laitteelle + run
 cordova run android
 
 Koneeseen liitettyjen Android-laitteiden listaus (pitää suorittaa ennen ensimmäistä run-komentoa)
-cordova run android
+adb devices
 
 Testaus emulaattorissa, jos Android-laitetta ei ole saatavilla
 cordova emulate android
